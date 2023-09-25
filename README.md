@@ -15,7 +15,7 @@ More information at [opalcoin](https://masternodes.guru/auop)
 <tr><td>Block Time</td><td>60 Seconds</td></tr>
 <tr><td>Difficulty Retargeting</td><td>Every Block</td></tr>
 <tr><td>Max Coin Supply (PoW Phase)</td><td>250 AUOP</td></tr>
-<tr><td>Max Coin Supply (PoS Phase)</td><td>inf AUOP</td></tr>
+<tr><td>Max Coin Supply (PoS Phase)</td><td>infinity</td></tr>
 <tr><td>Premine</td><td>250,000 AUOP*</td></tr>
 </table>
 
