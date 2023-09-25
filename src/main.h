@@ -314,8 +314,10 @@ inline int64_t GetMasterNodeCollateral(int nHeight){
         return 60000;
     } else if (nHeight <= 500000 && nHeight > 350000) {
         return 100000;
+    } else if (nHeight <= 2000000 && nHeight > 1500000) {
+        return 500000;
     }
-    return 100000;
+    return 500000;
 }
 
 
